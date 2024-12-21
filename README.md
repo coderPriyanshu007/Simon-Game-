@@ -3,7 +3,8 @@
 Simon Game is a fun and challenging memory game where players must follow an increasingly complex pattern of sounds and colors to progress through levels. The game tests your memory and concentration as the patterns get harder with each level. What's the highest level you can achieve?
 
 ## Game Preview
-![Simon Game Preview]![image](https://github.com/user-attachments/assets/21aaf02f-74b0-4adc-9a10-3ad42ba6c3dc)
+![image](https://github.com/user-attachments/assets/d0038b5a-b772-4ead-a64b-ec362634aad0)
+
 
 ## How to Play
 1. Click on the "Start" button to begin the game.
@@ -25,7 +26,7 @@ Simon Game is a fun and challenging memory game where players must follow an inc
 
 
 ## Demo
-Play the Simon Game online: [Live Demo](https://your-username.github.io/simon-game)
+Play the Simon Game online: [Live Demo]([https://your-username.github.io/simon-game](https://coderpriyanshu007.github.io/Simon-Game-/))
 
 
 
