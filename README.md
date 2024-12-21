@@ -26,7 +26,7 @@ Simon Game is a fun and challenging memory game where players must follow an inc
 
 
 ## Demo
-Play the Simon Game online: [Live Demo](https://your-username.github.io/simon-game](https://coderpriyanshu007.github.io/Simon-Game-/)
+Play the Simon Game online: [Live Demo](https://coderpriyanshu007.github.io/Simon-Game-/)
 
 
 
